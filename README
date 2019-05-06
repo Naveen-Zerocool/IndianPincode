@@ -1,0 +1,7 @@
+Indian pincode lookup:
+
+The pincodes are fetched from indian gov database used their API and saved in local table.
+Exposing different APIs for location lookup based on pincode/ post office name, etc.
+Will be useful for pre-filling users address form with just getting one detail from user.
+
+Based on Django
